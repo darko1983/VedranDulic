@@ -1,0 +1,36 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-size: 30px;
+}
+#cooltable .row {
+  overflow: auto;
+}
+#cooltable .row div { 
+  float: left; 
+  width: 25%; 
+  text-align: center;
+}
+#cooltable .thead {
+  background: orangered;
+}
+#cooltable .thead .chead {
+  font-weight: bold; 
+  text-align: center; 
+  color: #fff;
+  line-height: 30px;
+}
+#cooltable .trow:nth-child(even){
+  background: #ccc;
+}
+a.btn {
+  color: #fff;
+  font-weight: bold;
+  display: inline-block; 
+  background: #006699;; 
+  padding: 10px; 
+  text-decoration: none;
+  margin-top: 20px;
+}

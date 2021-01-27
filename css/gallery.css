@@ -1,0 +1,26 @@
+.wedding{
+  width: 100%;
+  justify-content: center;
+}
+
+.photo img{
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+}
+
+.u-ml-0 {
+  margin: 10px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+
+.weds{
+  text-align: center;
+  justify-content: center;
+}
+
+.galHead h2{
+  padding-top: 30px;
+}
